@@ -32,7 +32,7 @@ Welcome to **TypeScript Technocrat**! This repository documents my learning jour
    - **Best Practices**: Emphasis on best practices for clean, maintainable, and scalable TypeScript code.
    - **Documentation & Comments**: Comprehensive explanations and comments for each example to guide through each concept’s usage and benefits.
 
+---
+
 ## Purpose
 This repository is designed to serve as both a learning tool and a reference, providing a solid foundation for developers looking to use TypeScript for projects requiring type safety and object-oriented principles. By mastering these TypeScript features, you'll be prepared to build reliable and maintainable applications with confidence.
-
-!
